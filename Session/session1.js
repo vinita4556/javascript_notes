@@ -96,3 +96,4 @@ deepCopy.details.version = 5.0; // modifying the nested object in the deep copy
 
 console.log("Original Object:", originalObject);
 console.log("Deep Copy:", deepCopy);
+   
